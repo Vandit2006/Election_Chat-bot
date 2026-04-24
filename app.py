@@ -1,7 +1,7 @@
 import streamlit as st
 from openai import OpenAI
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 # Initialize OpenAI client
 client = OpenAI()
